@@ -20,4 +20,4 @@ Este projeto é um sistema de gerenciamento de tarefas desenvolvido em Python ap
 1. Clone o repositório:
 `git clone https://github.com/jvitoor/Atividade-02-POO---Gerenciador-de-Tarefas-Inteligente.git`
 2. Execute o arquivo principal:
-`atividade_2_poo`
+`atividade_2_poo.py`
